@@ -6,6 +6,8 @@ import (
 	"os"
 )
 
+
+//dup1 go
 func main() {
 
 	counts := make(map[string]int)
