@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="facdf567-023d-4f74-baeb-21ffad48bc6d" name="Default Changelist" comment="" />
+    <list default="true" id="facdf567-023d-4f74-baeb-21ffad48bc6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +50,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -106,10 +109,10 @@
     </state>
     <state width="1985" height="328" key="GridCell.Tab.0.right/0.25.2560.1354@0.25.2560.1354" timestamp="1610397893062" />
     <state width="1985" height="328" key="GridCell.Tab.0.right/0.25.5120.1354@0.25.5120.1354" timestamp="1610413270565" />
-    <state x="2578" y="424" key="SettingsEditor" timestamp="1610671053912">
+    <state x="2578" y="424" key="SettingsEditor" timestamp="1610760323089">
       <screen x="0" y="25" width="5120" height="1354" />
     </state>
-    <state x="2578" y="424" key="SettingsEditor/0.25.5120.1354@0.25.5120.1354" timestamp="1610671053912" />
+    <state x="2578" y="424" key="SettingsEditor/0.25.5120.1354@0.25.5120.1354" timestamp="1610760323089" />
     <state x="2505" y="452" width="670" height="676" key="search.everywhere.popup" timestamp="1610497504088">
       <screen x="0" y="25" width="5120" height="1354" />
     </state>
